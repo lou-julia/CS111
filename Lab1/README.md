@@ -2,7 +2,7 @@
 
 ## Pipe Up
 
-Low level code performed by the pipe (|) operator in shells wherein users pass in
+Low level code performed by the pipe ( | ) operator in shells wherein users pass in
 executable names as command line arguments and each one is executed as a new process.
 
 ## Building
